@@ -1,0 +1,39 @@
+
+
+.randomNumber {
+
+	height: 300px;
+	border: 4px solid gray;
+	padding: 3%;
+	background-color: rgb(0, 0, 0); 
+	opacity: 0.6; 
+	color:white;
+	font-size: 300%; 
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+ 
+
+ 
+
+ .scoreDisplay {
+ 	border: 4px solid black;
+	padding: 3%; 
+	background-color: white; 
+	opacity: 0.6; 
+	color:green;
+	font-size: 400%;
+	font-family: Arial, Helvetica, sans-serif;
+ }
+
+ 
+
+ .header { 
+	font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .wins, .losses { 
+	padding: 2%;
+	color: green;
+  }
+
